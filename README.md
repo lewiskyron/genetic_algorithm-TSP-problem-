@@ -5,4 +5,4 @@ A genetic algorithm to solve the TSP problem using the city co-ordinates and gen
 
 ## Algroithim Walkthrough.
 
-[Imgur](https://i.imgur.com/sUfDJQf.gifv)
+![GIF](https://i.imgur.com/sUfDJQf.gif)
