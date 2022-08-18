@@ -6,3 +6,10 @@ A genetic algorithm to solve the TSP problem using the city co-ordinates and gen
 ## Algroithim Walkthrough.
 
 ![GIF](https://i.imgur.com/sUfDJQf.gif)
+
+
+## Features
+* Population Generation
+* Hyperparameter modification 
+* Population Enhancement Display 
+* Graphical Representation of optimization trends. 
